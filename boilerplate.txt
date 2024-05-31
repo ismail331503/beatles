@@ -1,0 +1,9 @@
+index
+css {
+    style, responsive
+}
+bootstrap
+fontawesome
+image
+google fonts {Headline, Description, Qoute/Review}
+Color {#0872b9, #5bc5f4}

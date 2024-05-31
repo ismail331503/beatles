@@ -1,0 +1,15 @@
+BG On Scroll ✔
+Back to Top ✔
+Preloader ✔
+
+venobox/lightbox/magnify JS
+Countdown JS
+Slider JS
+
+Counterup
+
+mixitup JS
+animate css
+
+
+Particle JS
